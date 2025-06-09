@@ -119,7 +119,9 @@ The Flask Registration System relies on the following third-party libraries and 
 
 ## Contributors
 
-- Juhi Kataria
+- Ankit
+- Aryak Moitra
+- Devakar Upadhay
 
 Feel free to contribute to the project by submitting issues or pull requests!
 
